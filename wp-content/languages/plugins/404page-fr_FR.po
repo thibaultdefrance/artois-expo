@@ -1,0 +1,189 @@
+# Translation of Plugins - 404page - your smart custom 404 error page - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - 404page - your smart custom 404 error page - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-21 11:29:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - 404page - your smart custom 404 error page - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://petersplugins.com"
+msgstr "http://petersplugins.com"
+
+#. Plugin URI of the plugin/theme
+msgid "http://petersplugins.com/free-wordpress-plugins/404page/"
+msgstr "http://petersplugins.com/free-wordpress-plugins/404page/"
+
+#: 404page.php:351
+msgid "This setting is not availbe because the 404page Plugin works in Polylang Mode."
+msgstr "Ce réglage n’est pas disponible parce que l’extension est en mode Polylang."
+
+#: 404page.php:347
+msgid "This setting is not availbe because the 404page Plugin works in WPML Mode."
+msgstr "Ce réglage n’est pas disponible parce que l’extension est en mode WPML."
+
+#: 404page.php:343
+msgid "This setting is not availbe because the 404page Plugin works in Customizr Compatibility Mode."
+msgstr "Ce réglage n’est pas disponible parce que l’extension est en mode compatibilité avec Customizr."
+
+#: 404page.php:339
+msgid "This setting is not available because the Theme you are using natively supports the 404page plugin."
+msgstr "Ce réglage n’est pas disponible parce que le thème que vous utilisez est compatible nativement avec l’extension 404page."
+
+#. Plugin Name of the plugin/theme
+msgid "404page - your smart custom 404 error page"
+msgstr "404page - votre page d’erreur 404 personnalisée"
+
+#: 404page.php:588
+msgid "Translate online"
+msgstr "Traduire en ligne"
+
+#: 404page.php:587
+msgid "It would be great if you'd support the 404page Plugin by adding a new translation or keeping an existing one up to date!"
+msgstr "Ce serait génial si vous pouviez aider l’extension 404page en ajoutant des traductions ou en gardant celles déjà présentes à jour !"
+
+#: 404page.php:585
+msgid "Translate this Plugin"
+msgstr "Traduire cette extension"
+
+#: 404page.php:361
+msgid "Standard Mode uses the WordPress Template System and should work in most cases. If the 404page plugin does not work properly, probably you are using a theme or plugin that modifies the WordPress Template System. In this case the Compatibility Mode maybe can fix the problem, although it cannot be guaranteed that every possible configuration can be handled by Compatibility Mode. Standard Mode is the recommended method, only switch to Compatibility Mode if you have any problems."
+msgstr "Le mode standard utilise le système de modèles de WordPress et devrait fonctionner dans la plupart des cas. Si l’extension ne fonctionne pas correctement, peut-être est-ce parce que vous utilisez un thème ou une extension qui le modifie. Dans ce cas, le mode compatibilité peut résoudre le problème, bien que nous ne pouvons pas garantir que chaque configuration sera compatible. Le mode standard est recommandé, ne passez au mode compatibilité que si vous rencontrez des problèmes."
+
+#: 404page.php:359
+msgid "Compatibility Mode"
+msgstr "Mode de compatibilité"
+
+#: 404page.php:356
+msgid "Standard Mode"
+msgstr "Mode standard"
+
+#: 404page.php:330 404page.php:339 404page.php:343 404page.php:347
+#: 404page.php:351
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: 404page.php:330
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: 404page.php:330
+msgid "If the page you selected as 404 error page is in cache, always a HTTP code 200 is sent. To avoid this and send a HTTP code 404 you have to exlcude this page from caching"
+msgstr "Si la page que vous avez sélectionnée comme page d’erreur 404, un code HTTP 200 est envoyé. Pour éviter cela, vous devez exclure cette page du cache."
+
+#: 404page.php:330
+msgid "WP Super Cache Plugin detected"
+msgstr "WP Super Cache détecté"
+
+#: 404page.php:328
+msgid "Uncheck this if you want the selected page to be accessible."
+msgstr "Décochez si vous voulez que la page sélectionnée soit accessible."
+
+#: 404page.php:327
+msgid "Send an 404 error if the page is accessed directly by its URL"
+msgstr "Envoyer une erreur 404 si la page est accédée directement par son URL."
+
+#: 404page.php:321
+msgid "For Administrators the page is always visible."
+msgstr "Pour les administrateurs, la page est toujours visible."
+
+#: 404page.php:320
+msgid "Hide the selected page from the Pages list"
+msgstr "Masquer la page sélectionné de la liste des pages"
+
+#: 404page.php:314
+msgid "Test 404 error"
+msgstr "Testez une erreur 404"
+
+#: 404page.php:291
+msgid "Operating Method"
+msgstr "Méthode de fonctionnement"
+
+#: 404page.php:290
+msgid "Fire 404 error"
+msgstr "Déclencher une erreur 404"
+
+#: 404page.php:289
+msgid "Hide 404 page"
+msgstr "Masquer la page 404"
+
+#. Description of the plugin/theme
+msgid "Custom 404 the easy way! Set any page as custom 404 error page. No coding needed. Works with (almost) every Theme."
+msgstr "La méthode la plus simple de personnalisation de la page 404 ! Définissez n’importe quelle page comme page d’erreur 404. Pas besoin de code. Fonctionne avec (à peu près) tous les thèmes."
+
+#: 404page.php:580
+msgid "Feel free to contact the Author"
+msgstr "Contactez l’auteur à votre guise"
+
+#: 404page.php:579
+msgid "Take a look at the Support section"
+msgstr "Jetez un œil à la section de support"
+
+#: 404page.php:578
+msgid "Take a look at the FAQ section"
+msgstr "Jetez un &oelig;il à la section FAQ"
+
+#: 404page.php:577
+msgid "Take a look at the Plugin Doc"
+msgstr "Jetez un &oelig;il sur la documentation de l’extension"
+
+#: 404page.php:574
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: 404page.php:569
+msgid "Authors facebook Page"
+msgstr "Page Facebook de l’auteur"
+
+#: 404page.php:568
+msgid "Authors Google+ Page"
+msgstr "Page Google+ de l’auteur"
+
+#: 404page.php:567
+msgid "Author homepage"
+msgstr "Page d’accueil de l'auteur"
+
+#: 404page.php:566
+msgid "Plugin homepage"
+msgstr "Page d’accueil de l’extension"
+
+#: 404page.php:565
+msgid "Please rate the plugin"
+msgstr "Merci de noter l’extension"
+
+#: 404page.php:562
+msgid "Like this Plugin?"
+msgstr "Vous aimez cette extension ?"
+
+#: 404page.php:314
+msgid "Edit Page"
+msgstr "Modifier la page"
+
+#: 404page.php:421
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les droits suffisants pour accéder à cette page."
+
+#: 404page.php:409
+msgid "404 Error Page"
+msgstr "Page d’erreur 404"
+
+#: 404page.php:426 404page.php:598
+msgid "Settings"
+msgstr "Réglages"
+
+#: 404page.php:310
+msgid "&mdash; NONE (WP default 404 page) &mdash;"
+msgstr "&mdash; AUCUNE (page 404 par défaut de WP) &mdash;"
+
+#: 404page.php:308
+msgid "The page you have selected as 404 page does not exist anymore. Please choose another page."
+msgstr "La page sélectionnée comme page 404 n’existe plus. Merci de choisir une autre page."
+
+#: 404page.php:288
+msgid "Page to be displayed as 404 page"
+msgstr "Page à afficher en tant que page 404"

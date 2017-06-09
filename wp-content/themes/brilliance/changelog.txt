@@ -1,0 +1,15 @@
+Version 1.1.0
+Feature - Added support for services
+Feature - Added support for clients
+Feature - Added support for testimonials
+Tweaks - Added better links in the welcome page
+
+Version 1.0.7
+Tweaks - Added better handling of multilingual content
+
+Version 1.0.6
+Feature - Added multilingual support
+Tweaks - Minor fixes to design
+
+Version 1.0.5
+Theme release!

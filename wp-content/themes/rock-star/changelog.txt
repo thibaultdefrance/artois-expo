@@ -1,0 +1,61 @@
+== Change Log ==
+
+= 1.2.2 =
+* Bug Fixed: Background Image blurred in ios mobile devices
+
+= 1.2.1 =
+* Added: Option to Display all Categories in Customizer
+* Enhanced: HTML structure
+* Code Optimization
+
+= 1.2 =
+* Added CSS to support for bbPress forum
+* Bug Fixed: Margin issue in footer widget list items
+* Bug Fixed: Mobile menu issue with admin bar
+* Bug Fixed: Body class issue when header image is disabled
+
+= 1.1 =
+* Bug Fixed: Replaced 'wp_reset_query' with 'wp_reset_postdata' where $wp_query is defined as global
+* Updated: Custom CSS to Additional CSS( Core Support ) for WP version 4.7
+* Code Optimization
+
+= 1.0 =
+* Marking it as stable version release
+
+= 0.8 =
+* Removed: update_option for thumbnail image size and added new image sizes as rock-star-small
+
+= 0.7 =
+* Revert: "Used wp_add_inline_style for custom css" from v0.5 as this is method does not override light.css in light color scheme
+
+= 0.6 =
+* Bug Fixed: Undefined index issue in about widget
+
+= 0.5 =
+* Bug Fixed: Featured Header Image Link URL not linked to header image
+* Bug Fixed: Header Image not applying via metabox
+* Bug Fixed: Empty div header-image-slider being displayed when slider and header image both disabled
+* Updated: Used wp_add_inline_style for custom css and js scripts for widgets
+* Updated: removed and added inline css for widgets background
+* Updated: Upgrade Button in customizer with respect to trt decision
+* Removed: Unused js files
+* Renamed: fitvids handle to jquery-fitvids
+
+= 0.4 =
+* Added: Upgrade to Pro Button
+* Bug Fixed: Missing output sanitization
+
+= 0.3 =
+* Added: Theme Options
+* Added: Featured Slider Options
+* Added: Featured Content Options
+* Added: News Ticker Options
+* Added: Social Links Options
+* Updated: Code Optimization
+* Updated: Theme Description
+
+= 0.2 =
+* Updated Styles and added scripts
+
+= 0.1 =
+* Submitted to WordPress.org for review

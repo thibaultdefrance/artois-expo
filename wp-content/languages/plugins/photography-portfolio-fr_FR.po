@@ -1,0 +1,965 @@
+# Translation of Plugins - Easy Photography Portfolio - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Easy Photography Portfolio - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-01 09:31:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Easy Photography Portfolio - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "Add a photography portfolio to any WordPress theme. Designed for Photographers, yet made with theme developers in mind."
+msgstr "Ajoutez un portfolio de photographies à n'importe quel thème WordPress. Conçu pour les photographes, mais créé en pensant aux développeurs de thèmes."
+
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:162
+msgid "With a subtitle"
+msgstr "Avec un sous-titre"
+
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:119
+msgid "First Portfolio Entry"
+msgstr "Première entrée de portfolio"
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:283
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr "Portée sous laquelle la requête est faite; détermine les champs présents dans la réponse."
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:265
+msgid "Limit results to those matching a string."
+msgstr "Limiter les résultats à ceux correspondant à une chaîne."
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:256
+msgid "Maximum number of items to be returned in result set."
+msgstr "Nombre maximal d’élément à retourner dans le jeu de résultats."
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:248
+msgid "Current page of the collection."
+msgstr "Page courante de la collection."
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:34
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:44
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:54
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:64
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:74
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:84
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:94
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:104
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:114
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:124
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:134
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:145
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr "Méthode '%s' non implémentée. Doit être supplantée dans la sous-classe."
+
+#: vendor/webdevstudios/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr "La méthode register_routes() doit être surchargée"
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+msgid "Value Error for %s"
+msgstr "Erreur de valeur pour %s"
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+msgid "No field found by that id."
+msgstr "Aucun fichier trouvé via cet ID."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr "La veleur du champ CMB2 ne peut pas être modifiée sans avoir spécifié les paramètres object_id et object_type."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr "La veleur du champ CMB2 ne peut pas être modifiée sans avoir spécifié."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr "Pour voir ou modifier la valeur du champ, les arguments 'object_id' et 'object_type' sont nécessaires."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr "Lorsque l'argument '_rendered' est passé, Les attributs du champ rendu seront totalement renvoyés.. Par défaut, le nom des secouristes pour les attributs rendus sera retourné."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr "Inclut l’objet boîte dans lequel les champs sont enregistrés dans la réponse."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr "Aucune boîte trouvée."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr "Comprend les attributs entièrement rendus, 'form_open', 'form_close', ainsi que les poignées de script 'js_dependencies' en file d’attente et les poignées de feuilles de style 'css_dependencies'."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+msgid "Includes the registered fields for the box in the response."
+msgstr "Inclut les champs enregistrés pour la boîte dans la réponse."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+msgid "The title for the object."
+msgstr "Le titre pour l’objet."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+msgid "The id for the object."
+msgstr "L’ID pour l’objet."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+msgid "A human-readable description of the object."
+msgstr "Une description de l’objet lisible par les humains."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr "Aucune boîte trouvée par cet id. Une boîte doit être enregistrée avec le paramètre \"show_in_rest\" configuré."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+msgid "This box does not have write permissions."
+msgstr "Cette boîte ne possède pas de droits d’écriture."
+
+#: vendor/webdevstudios/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+msgid "This box does not have read permissions."
+msgstr "Cette boîte ne possède pas de droits de lecture."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_hookup.php:389
+msgid "Toggle panel: %s"
+msgstr "Panneau de bascule : %s"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Types.php:220
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr "Les classes de type de champ CMB2 personnalisées doivent étendre CMB2_Type_Base."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:473
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_Base.php:123
+msgid "Invalid %1$s method: %2$s"
+msgstr "Méthode %1$s non valide : %2$s"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:459
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_Base.php:138
+msgid "Invalid %1$s property: %2$s"
+msgstr "Propriété %1$s non valide : %2$s"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:426
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "%1$s a été appelé avec un paramètre qui est <strong>déprécié</strong> depuis la version %2$s sans aucune alternative valable."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:423
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr "%1$s a été appelé avec un paramètre qui est <strong>déprécié</strong> depuis la version %2$s! %3$s"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:393
+msgid "Using the \"%s\" field parameter as a callback has been deprecated in favor of the \"%s\" parameter."
+msgstr "L’utilisation du paramètre de champ « %s » comme rappel a été déprécié en faveur du paramètre « %s »."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Base.php:389
+msgid "The \"%s\" field parameter has been deprecated in favor of the \"%s\" parameter."
+msgstr "Le paramètre de champ « %s » a été déprécié en faveur du paramètre « %s »."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:718
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr "S’affichera uniquement dans les contextes « modifiables » de l’API REST (les resuêtes « article »)."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:717
+msgid "REST Editable Test Text"
+msgstr "Texte de test modifiable REST"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:711
+msgid "Will show in the REST API for this box and for pages."
+msgstr "Affichera dans l’API REST pour cette case et pour les pages."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:710
+msgid "REST Test Text"
+msgstr "Texte de test REST"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:701
+msgid "REST Test Box"
+msgstr "Boîte de test REST"
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: vendor/webdevstudios/cmb2/example-functions.php:410
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr "Saisissez une URL YouTube, Twitter ou Instagram. Supporte les services listés sur %s."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr "Hé ici, je suis un champ en lecture seule"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr "Champ désactivé en lecture seule"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:161
+msgid "Pop-up Gallery"
+msgstr "Galerie de fenêtre contextuelle"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:194
+msgid "Show Subtitle or Image Count"
+msgstr "Afficher le sous-titre ou le nombre d’images"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:193
+msgid "Show Only Image Count"
+msgstr "Afficher uniquement le nombre d’images"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:192
+msgid "Show Only Subtitle"
+msgstr "Afficher uniquement le sous-titre"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:187
+msgid "Album Subtitle"
+msgstr "Sous-titre de l’album"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:65
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:180
+msgid "Enable"
+msgstr "Activer"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:64
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:179
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:191
+msgid "Disable"
+msgstr "Désactiver"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:172
+msgid "\"Archives\" are places like \"Categories\" and your \"Main Portfolio Page\"."
+msgstr "Les « archives » sont des lieux comme des « catégories » et votre « page principale de portfolio »."
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:171
+msgid "Show Archive Titles & Descriptions"
+msgstr "Afficher les titres et descriptions des archives"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:99
+msgid "Main Portfolio Page"
+msgstr "Page principale de portfolio"
+
+#. #-#-#-#-#  tmp-photography-portfolio.pot (Easy Photography Portfolio 1.1.4) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:52
+msgid "Easy Photography Portfolio"
+msgstr "Easy Photography Portfolio"
+
+#. Author URI of the plugin/theme
+msgid "http://colormelon.com"
+msgstr "http://colormelon.com"
+
+#. Author of the plugin/theme
+msgid "Colormelon, justnorris"
+msgstr "Colormelon, justnorris"
+
+#. Plugin URI of the plugin/theme
+msgid "http://colormelon.com/plugins/photography-portfolio"
+msgstr "http://colormelon.com/plugins/photography-portfolio"
+
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr "Aucun terme"
+
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File_List.php:39
+msgid "Add or Upload Files"
+msgstr "Ajouter ou mettre en ligne des fichiers"
+
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File.php:40
+msgid "Add or Upload File"
+msgstr "Ajouter ou mettre en ligne un fichier"
+
+#: vendor/webdevstudios/cmb2/includes/helper-functions.php:287
+msgid "Save"
+msgstr "Enregistrer"
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: vendor/webdevstudios/cmb2/includes/CMB2_Ajax.php:181
+#: vendor/webdevstudios/cmb2/includes/helper-functions.php:99
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr "Aucun résultat d’intégration trouvé pour %1$s. Voir plus d’infos sur %2$s."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_hookup.php:152
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr "La configuration des termes de boîte méta nécessite un paramètre « taxinomies »."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_hookup.php:148
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr "Mes termes de métadonnées est une fonctionnalité WordPress 4.4+. Veuillez mettre à jour votre installation WordPress."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Types.php:329
+msgid "Add Row"
+msgstr "Ajouter un rang"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:160
+msgid "Select / Deselect All"
+msgstr "Tout sélectionner/désélectionner"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:155
+msgid "Use these files"
+msgstr "Utilisez ces fichiers"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:154
+msgid "Use this file"
+msgstr "Utiliser ce fichier"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:148
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:146
+msgid "Now"
+msgstr "Maintenant"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:145
+msgid "Second"
+msgstr "Seconde"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:144
+msgid "Minute"
+msgstr "Minute"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:143
+msgid "Hour"
+msgstr "Heure"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:142
+msgid "Time"
+msgstr "Horaire"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:141
+msgid "Choose Time"
+msgstr "Sélectionnez l’heure"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:137
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:147
+msgid "Done"
+msgstr "Terminé"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:136
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:135
+msgid "Prev"
+msgstr "﻿Précédent"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:134
+msgid "Next"
+msgstr "Prochaine"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:133
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan., Fév, Mars, Avr., Mai, Juin, Jui., Août, Sep., Oct., Nov., Déc."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:132
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "Janvier, Février, Mars, Avril, Mai, Juin, Juillet, Août, Septembre, Octobre, Novembre, Décembre"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:131
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Dim., Lun., Mar., Mer., Jeu., Ven., Sam."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:130
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Di, Lu, Ma, Me, Je, Ve, Sa"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:129
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Dimanche, Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:128
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/jj/aa"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:102
+msgid "Current Color"
+msgstr "Couleur actuelle"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:101
+msgid "Select Color"
+msgstr "Sélectionnez une couleur"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:100
+msgid "Default"
+msgstr "Par défaut"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:99
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:138
+msgid "Clear"
+msgstr "Effacer"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field.php:1206
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Désolé, ce domaine n'a pas de cmb_id spécifié."
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field.php:1141
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field.php:1145
+msgid "None"
+msgstr "Aucune"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field.php:1119
+msgid "Remove Group"
+msgstr "Supprimer un groupe"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field.php:1118
+msgid "Add Group"
+msgstr "Ajouter un groupe"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr "Supprimer l’intégration"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr "Merci de réessayer"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2.php:470
+msgid "Click to toggle"
+msgstr "Cliquez pour basculer"
+
+#: vendor/webdevstudios/cmb2/includes/CMB2.php:127
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr "La configuration de boîte méta est nécessaire pour avoir un paramètre d’ID."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:665
+msgid "Site Background Color"
+msgstr "Couleur d'arrière-plan du site"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:650
+msgid "Theme Options Metabox"
+msgstr "Options de boîte méta du thème"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:628
+msgid "Arbitrary Term Field"
+msgstr "Champ de terme arbitraire"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:621
+msgid "Term Image"
+msgstr "Image de terme"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:606
+msgid "Category Metabox"
+msgstr "Boîte méta de catégorie"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:586
+msgid "User Field"
+msgstr "Champ de l'utilisateur"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:579
+msgid "Linkedin URL"
+msgstr "URL Linkedin"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:572
+msgid "Google+ URL"
+msgstr "URL Google+"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:565
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:558
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:551
+msgid "Avatar"
+msgstr "Avatar"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:543
+#: vendor/webdevstudios/cmb2/example-functions.php:613
+msgid "Extra Info"
+msgstr "Infos supplémentaires"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:536
+msgid "User Profile Metabox"
+msgstr "Boîte méta de profil de l’utilisateur"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:517
+msgid "Image Caption"
+msgstr "Légende de l’image"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:511
+msgid "Entry Image"
+msgstr "Image d’entrée"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:505
+msgid "Write a short description for this entry"
+msgstr "Écrivez une brève description de cette entrée"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:504
+msgid "Description"
+msgstr "Description"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:497
+msgid "Entry Title"
+msgstr "Titre de l’entrée"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:484
+msgid "Remove Entry"
+msgstr "Supprimer une entrée"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:483
+msgid "Add Another Entry"
+msgstr "Ajouter une autre entrée"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:482
+msgid "Entry {#}"
+msgstr "Entrée {#}"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:480
+msgid "Generates reusable form entries"
+msgstr "Génère des entrées de formulaire réutilisables"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:472
+msgid "Repeating Field Group"
+msgstr "Répétition du groupe de champ"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:443
+msgid "About Page Metabox"
+msgstr "Boîte méta de la page à propos"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:407
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:400
+msgid "Upload or add multiple images/attachments."
+msgstr "Mettre en ligne ou ajouter plusieurs images/pièces jointes."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:399
+msgid "Multiple Files"
+msgstr "Fichiers multiples"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:393
+msgid "Upload an image or enter a URL."
+msgstr "﻿Mettez une image en ligne ou saisissez une URL."
+
+#: vendor/webdevstudios/cmb2/example-functions.php:392
+msgid "Test Image"
+msgstr "Test d’image"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:384
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:378
+msgid "Check Three"
+msgstr "Case à cocher Trois"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:377
+msgid "Check Two"
+msgstr "Case à cocher Deux"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:376
+msgid "Check One"
+msgstr "Case à cocher Une"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:370
+msgid "Test Multi Checkbox"
+msgstr "Cases à cocher de test multiples"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:363
+msgid "Test Checkbox"
+msgstr "Cases à cocher de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:354
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Cases à cocher multiples de taxinomie de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:346
+msgid "Test Taxonomy Select"
+msgstr "Sélection de taxinomie de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:337
+msgid "Test Taxonomy Radio"
+msgstr "Bouton radio de taxinomie de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:325
+msgid "Test Radio"
+msgstr "Bouton radio de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:312
+msgid "Test Radio inline"
+msgstr "Bouton radio en ligne de test"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:307
+#: vendor/webdevstudios/cmb2/example-functions.php:320
+#: vendor/webdevstudios/cmb2/example-functions.php:332
+msgid "Option Three"
+msgstr "Option Trois"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:306
+#: vendor/webdevstudios/cmb2/example-functions.php:319
+#: vendor/webdevstudios/cmb2/example-functions.php:331
+msgid "Option Two"
+msgstr "Option Deux"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:305
+#: vendor/webdevstudios/cmb2/example-functions.php:318
+#: vendor/webdevstudios/cmb2/example-functions.php:330
+msgid "Option One"
+msgstr "Option Une"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:299
+msgid "Test Select"
+msgstr "Tester sdélectionner"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:293
+msgid "This is a title description"
+msgstr "﻿Ceci est une description de titre"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:292
+msgid "Test Title Weeeee"
+msgstr "Tester le titre Youhou"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:285
+msgid "Test Text Area for Code"
+msgstr "Tester la zone de texte pour code"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:278
+msgid "Test Text Area Small"
+msgstr "Tester la zone de texte petite"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:271
+msgid "Test Text Area"
+msgstr "Tester la zone de texte"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr "Tester le sélecteur de couleur"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:249
+msgid "Test Money"
+msgstr "Tester la devise"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Tester le sélecteur de date et heure combinées (timestamp UNIX)"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Tester le sélecteur de date (timestamp UNIX)"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr "Tester le sélecteur de date"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:209
+#: vendor/webdevstudios/cmb2/example-functions.php:210
+msgid "Time zone"
+msgstr "﻿Fuseau horaire"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:201
+msgid "Test Time"
+msgstr "Tester l’heure"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:193
+msgid "Test Text Email"
+msgstr "﻿Tester le texte de l’e-mail"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:184
+msgid "Website URL"
+msgstr "﻿URL de site web"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr "Champ rendu personnalisé"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr "Test de texte moyen"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr "Test de petit texte"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:131
+#: vendor/webdevstudios/cmb2/example-functions.php:144
+#: vendor/webdevstudios/cmb2/example-functions.php:157
+#: vendor/webdevstudios/cmb2/example-functions.php:164
+#: vendor/webdevstudios/cmb2/example-functions.php:177
+#: vendor/webdevstudios/cmb2/example-functions.php:185
+#: vendor/webdevstudios/cmb2/example-functions.php:194
+#: vendor/webdevstudios/cmb2/example-functions.php:202
+#: vendor/webdevstudios/cmb2/example-functions.php:217
+#: vendor/webdevstudios/cmb2/example-functions.php:225
+#: vendor/webdevstudios/cmb2/example-functions.php:233
+#: vendor/webdevstudios/cmb2/example-functions.php:250
+#: vendor/webdevstudios/cmb2/example-functions.php:259
+#: vendor/webdevstudios/cmb2/example-functions.php:272
+#: vendor/webdevstudios/cmb2/example-functions.php:279
+#: vendor/webdevstudios/cmb2/example-functions.php:286
+#: vendor/webdevstudios/cmb2/example-functions.php:300
+#: vendor/webdevstudios/cmb2/example-functions.php:313
+#: vendor/webdevstudios/cmb2/example-functions.php:326
+#: vendor/webdevstudios/cmb2/example-functions.php:338
+#: vendor/webdevstudios/cmb2/example-functions.php:347
+#: vendor/webdevstudios/cmb2/example-functions.php:355
+#: vendor/webdevstudios/cmb2/example-functions.php:364
+#: vendor/webdevstudios/cmb2/example-functions.php:371
+#: vendor/webdevstudios/cmb2/example-functions.php:385
+#: vendor/webdevstudios/cmb2/example-functions.php:453
+#: vendor/webdevstudios/cmb2/example-functions.php:544
+#: vendor/webdevstudios/cmb2/example-functions.php:552
+#: vendor/webdevstudios/cmb2/example-functions.php:559
+#: vendor/webdevstudios/cmb2/example-functions.php:566
+#: vendor/webdevstudios/cmb2/example-functions.php:573
+#: vendor/webdevstudios/cmb2/example-functions.php:580
+#: vendor/webdevstudios/cmb2/example-functions.php:587
+#: vendor/webdevstudios/cmb2/example-functions.php:614
+#: vendor/webdevstudios/cmb2/example-functions.php:622
+#: vendor/webdevstudios/cmb2/example-functions.php:629
+#: vendor/webdevstudios/cmb2/example-functions.php:666
+msgid "field description (optional)"
+msgstr "﻿description du champ (facultatif)"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:130
+#: vendor/webdevstudios/cmb2/example-functions.php:452
+msgid "Test Text"
+msgstr "Test de texte"
+
+#: vendor/webdevstudios/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr "Test de boîte de métas"
+
+#: public/templates/archive/entry.php:37
+msgid "View Gallery"
+msgstr "Voir la galerie"
+
+#: php-require-54.php:61
+msgid "<p>Your hosting environment is <strong>outdated</strong> and <strong>insecure</strong>! <br> Minimum version required for Photography Portfolio is PHP 5.4. Read more information about <a href=\"http://www.wpupdatephp.com/update/\">how you can update your server</a>!</p>"
+msgstr "<p>Votre environnement d’hébergement est <strong>dépassé</strong> et <strong>non sécurisé</strong> ! <br>La version minimum nécessaire pour Photography Portfolio est PHP 5.4. Lisez plus d’informations sur <a href=\"http://www.wpupdatephp.com/update/\">comment mettre à jour votre serveur</a> !</p>"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:205
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:110
+msgid ""
+"Some themes use different wrapper class-names than the standard.\n"
+"\t\t\t\t\t You can enter custom CSS classnames here to make the plugin compatible with your theme"
+msgstr ""
+"Certains thèmes utilisent des noms de classe de wrapper différents de la norme.\n"
+"\t\t\t\t\t Vous pouvez saisir des noms de classe CSS personnalisés ici pour rendre l’extension compatible avec votre thème"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:204
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:109
+msgid "Wrapper CSS Classes"
+msgstr "Classes CSS de Wrapper"
+
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:87
+msgid "Show image count in subtitles"
+msgstr "Afficher le nombre d’images dans les sous-titres"
+
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:75
+msgid "Enable Portfolio Subtitles"
+msgstr "Activer les sous-titres de portfolio"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:124
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:64
+msgid "Single Portfolio Layout"
+msgstr "Mise en page de portfolio unique"
+
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:54
+msgid "Show Titles & Descriptions in Archives"
+msgstr "Afficher les titres & descriptions dans les archives"
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:135
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:44
+msgid "Portfolio Archive Layout"
+msgstr "Mise en page des archives du portfolio"
+
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:32
+msgid "Portfolio Page"
+msgstr "Page de portfolio"
+
+#: Photography_Portfolio/Admin_View/Admin_View.php:42
+#: Photography_Portfolio/Settings/Portfolio_Options_Page.php:21
+msgid "Portfolio Settings"
+msgstr "Réglages du portfolio"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:113
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:113
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:157
+#: vendor/webdevstudios/cmb2/includes/CMB2_Types.php:392
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr "Retirer"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:112
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:112
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:159
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr "﻿Télécharger"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:111
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:111
+#: vendor/webdevstudios/cmb2/includes/CMB2_Field_Display.php:409
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:158
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr "Fichier :"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:110
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:110
+#: vendor/webdevstudios/cmb2/includes/CMB2_JS.php:156
+#: vendor/webdevstudios/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr "Supprimer l’image"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:109
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:109
+msgid "Add Images"
+msgstr "Ajouter une photo"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:93
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:93
+msgid "Photography Portfolio"
+msgstr "Photography Portfolio"
+
+#: Photography_Portfolio/Settings/PP_Post_Meta.php:75
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:75
+msgid "Entry Subtitle"
+msgstr "Sous-titre d’entrée"
+
+#: Photography_Portfolio/Frontend/Layout/Entry/Entry.php:186
+msgid "%d images"
+msgstr "%d images"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:96
+msgid "Choose from the most used categories"
+msgstr "Choisissez parmi les catégories les plus utilisées"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:95
+msgid "Add or remove categories"
+msgstr "Ajouter ou retirer des catégories"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:94
+msgid "Search Portfolio categories"
+msgstr "Recherche de catégories de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:93
+msgid "Separate categories with commas"
+msgstr "Séparer les catégories avec des virgules"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:92
+msgid "Update Category"
+msgstr "Mettre à jour la catégorie"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:91
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:90
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:89
+msgid "New Category Name"
+msgstr "Nom de la nouvelle catégorie"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:88
+msgid "Parent Category:"
+msgstr "﻿Catégorie parente :"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:87
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:86
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:85
+msgid "Categories"
+msgstr "Catégories"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:84
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Category"
+msgstr "Catégorie de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:83
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr "Catégories de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:51
+msgid "portfolio"
+msgstr "portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:44
+msgid "No portfolio entries found in Trash"
+msgstr "Aucune entrée de portfolio trouvée dans la corbeille"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:43
+msgid "No portfolio entries found"
+msgstr "Aucune entrée de portfolio trouvée"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:42
+msgid "Search portfolio"
+msgstr "Recherche portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:41
+msgid "Update Entry"
+msgstr "Mettre à jour l’entrée"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:40
+msgid "Edit Portfolio Entry"
+msgstr "Modifier l'item du portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:39
+msgid "New Portfolio  Entry"
+msgstr "Nouvelle entrée de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:38
+msgid "Add New Portfolio  Entry"
+msgstr "Ajouter un nouvelle entrée de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:37
+msgid "View Entries"
+msgstr "Voir les données"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:36
+msgid "All Entries"
+msgstr "Toutes les entrées"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:35
+msgid "Parent Entry"
+msgstr "Entrée parente"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:34
+#: Photography_Portfolio/Core/Register_Post_Type.php:52
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:45
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:33
+msgctxt "Post Type Singular Name"
+msgid "Portfolio Entry"
+msgstr "Entrée de portfolio"
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:32
+msgctxt "Post Type General Name"
+msgid "Portfolio Entries"
+msgstr "Entrées de portfolio"
+
+#: Photography_Portfolio/Core/Initialize_Layout_Registry.php:41
+msgid "Masonry"
+msgstr "Masonry"
+
+#: Photography_Portfolio/Core/Initialize_Layout_Registry.php:30
+msgid "Masonry with hover"
+msgstr "Maçonnerie avec survol"
+
+#: Photography_Portfolio/Core/Add_Attachment_Meta.php:29
+msgid "Video URL"
+msgstr "URL de vidéo"
+
+#: Photography_Portfolio/Admin_View/CMB2_Options_Page.php:51
+#: Photography_Portfolio/Admin_View/Options_Page.php:53
+msgid "Settings updated."
+msgstr "Réglages mis à jour."
+
+#: Colormelon_Photography_Portfolio.php:200
+#: Colormelon_Photography_Portfolio.php:209
+msgid "Can't do this thing."
+msgstr "Impossible de faire ceci."

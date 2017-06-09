@@ -1,0 +1,264 @@
+# Copyright (C) 2017 Photography Portfolio
+# This file is distributed under the same license as the Photography Portfolio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photography Portfolio\n"
+"Report-Msgid-Bugs-To: http://help.colormelon.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Colormelon <help@colormelon.com>\n"
+"Language-Team: Colormelon <help@colormelon.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Colormelon_Photography_Portfolio.php:200, Colormelon_Photography_Portfolio.php:209
+msgid "Can't do this thing."
+msgstr ""
+
+#: Photography_Portfolio/Admin_View/Admin_View.php:42
+msgid "Portfolio Settings"
+msgstr ""
+
+#: Photography_Portfolio/Admin_View/CMB2_Options_Page.php:51
+msgid "Settings updated."
+msgstr ""
+
+#: Photography_Portfolio/Core/Initialize_Layout_Registry.php:30
+msgid "Masonry with hover"
+msgstr ""
+
+#: Photography_Portfolio/Core/Initialize_Layout_Registry.php:41
+msgid "Masonry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:32
+msgctxt "Post Type General Name"
+msgid "Portfolio Entries"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:33
+msgctxt "Post Type Singular Name"
+msgid "Portfolio Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:34, Photography_Portfolio/Core/Register_Post_Type.php:52, Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:45
+msgid "Portfolio"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:35
+msgid "Parent Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:36
+msgid "All Entries"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:37
+msgid "View Entries"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:38
+msgid "Add New Portfolio  Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:39
+msgid "New Portfolio  Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:40
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:41
+msgid "Update Entry"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:42
+msgid "Search portfolio"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:43
+msgid "No portfolio entries found"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:44
+msgid "No portfolio entries found in Trash"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:51
+msgid "portfolio"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:83
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:84
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:85
+msgid "Categories"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:86
+msgid "All Categories"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:87
+msgid "Parent Category"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:88
+msgid "Parent Category:"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:89
+msgid "New Category Name"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:90
+msgid "Add New Category"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:91
+msgid "Edit Category"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:92
+msgid "Update Category"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:93
+msgid "Separate categories with commas"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:94
+msgid "Search Portfolio categories"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:95
+msgid "Add or remove categories"
+msgstr ""
+
+#: Photography_Portfolio/Core/Register_Post_Type.php:96
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: Photography_Portfolio/Frontend/Layout/Entry/Entry.php:186
+msgid "%d images"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:64, Photography_Portfolio/Settings/General_Portfolio_Settings.php:179, Photography_Portfolio/Settings/General_Portfolio_Settings.php:191
+msgid "Disable"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:65, Photography_Portfolio/Settings/General_Portfolio_Settings.php:180
+msgid "Enable"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:99
+msgid "Main Portfolio Page"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:124
+msgid "Single Portfolio Layout"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:135
+msgid "Portfolio Archive Layout"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:161
+msgid "Pop-up Gallery"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:171
+msgid "Show Archive Titles & Descriptions"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:172
+msgid "\"Archives\" are places like \"Categories\" and your \"Main Portfolio Page\"."
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:187
+msgid "Album Subtitle"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:192
+msgid "Show Only Subtitle"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:193
+msgid "Show Only Image Count"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:194
+msgid "Show Subtitle or Image Count"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:204
+msgid "Wrapper CSS Classes"
+msgstr ""
+
+#: Photography_Portfolio/Settings/General_Portfolio_Settings.php:205
+msgid ""
+"Some themes use different wrapper class-names than the standard.\n"
+"					 You can enter custom CSS classnames here to make the plugin compatible with your theme"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:75
+msgid "Entry Subtitle"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:93
+msgid "Photography Portfolio"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:109
+msgid "Add Images"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:110
+msgid "Remove Image"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:111
+msgid "File:"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:112
+msgid "Download"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Portfolio_Entry_Metaboxes.php:113
+msgid "Remove"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:52
+msgid "Easy Photography Portfolio"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:119
+msgid "First Portfolio Entry"
+msgstr ""
+
+#: Photography_Portfolio/Settings/Sample_Content/Setup_Sample_Content.php:162
+msgid "With a subtitle"
+msgstr ""
+
+#: php-require-54.php:61
+msgid "<p>Your hosting environment is <strong>outdated</strong> and <strong>insecure</strong>! <br> Minimum version required for Photography Portfolio is PHP 5.4. Read more information about <a href=\"http://www.wpupdatephp.com/update/\">how you can update your server</a>!</p>"
+msgstr ""
+
+#: public/templates/archive/entry.php:37
+msgid "View Gallery"
+msgstr ""
